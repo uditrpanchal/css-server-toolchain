@@ -1,0 +1,24 @@
+{
+  "name": "global-css",
+  "version": "1.0.0",
+  "description": "A global css file to keep uniform css across Patient Channel Access Applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHLTC11/PatientPortal_Angular.git"
+  },
+  "author": "Aditya Dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOHLTC11/PatientPortal_Angular/issues"
+  },
+  "homepage": "https://github.com/MOHLTC11/PatientPortal_Angular#readme",
+  "dependencies": {
+    "cfenv": "^1.0.4",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security"
+  }
+}
