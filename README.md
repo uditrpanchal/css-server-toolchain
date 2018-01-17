@@ -1,3 +1,3 @@
-# css-server-toolchain
-Hosting Project CSS on Bluemix nodejs server
+# Hosting Node.js server as CSS CDN
+
 
